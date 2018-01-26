@@ -1,1 +1,1 @@
-# Operacje-na-plikach
+package pl.samouczekprogramisty.kursjava.files;
